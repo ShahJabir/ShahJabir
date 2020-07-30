@@ -1,6 +1,6 @@
 # ShahJabir
 
-<img src="/images/me.jpg" align="right" />
+<img src="https://avatars3.githubusercontent.com/u/58883768?s=96&v=4" align="right" class="rounded-circle" />
 
 I'm Shah Jabir and I am owner of `IT-Talk` which is a Tech company. I have built, and more importantly, helped others build computer programs over the past for several years.
 
@@ -24,8 +24,8 @@ I work at [IT-Talk](http://it-talk.github.io/official/index) and contribute to o
 <a href="https://www.java.com/en/" title="Java"><img src="/icons/java.ico" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="Java Script"><img src="/icons/js.jpg" /></a>
 <a href="http://csharp.net/" title="C#"><img src="/icons/csharp.png" /></a>
-<a href="https://developer.apple.com/swift/" title="Swift"><img src="/icons/swift.jpeg" /></a>
-<a href="https://dart.dev/" title="Dark"><img src="/icons/dart.jpg" /></a>
+<a href="https://developer.apple.com/swift/" title="Swift"><img src="/icons/swift.jpg" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="/icons/dart.jpg" /></a>
 
 
 **Framework:**
