@@ -1,23 +1,49 @@
-Hi, I am Nur Mahmud Ul Alam Tasin. A normal, school going boy. I love to do programming.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Nice to meet you, I'm Nur Mahmud Ul Alam Tasin  aka NurTasin
+
+## Who Am I? 🤠
+
+- 🤓 Self taught Developer 
+- 👩‍💻 Working on Some Shitty Projects 
+- 📝 Writing Code
+- 🎯 Goal : To be a NASA Hacker  😅😅😅
+- 💌 Fun Facts : 
+    - I learn , read & practice 😅
+    - Being foodie panda 🐼
+    - Me encanta codificar!! ( Ahh, Learning Spanish out of curiosity )
+
+## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurTasin&theme=react)](https://github.com/NurTasin/github-readme-stats)
+
+## Other Shields 🛡
+ * C/C++
+ * Micro Controllers
+ * Java
+ * Assembly
+ * Server IO
+ * Illustration
+
+ <br />
+ 
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=NurTasin&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NurTasin&theme=react" width="48%" >
 <br>
-Find me at <a href="https://www.facebook.com/profile.php?id=100016141804500">Facebook</a>,<a href="https://m.youtube.com/channel/UCNeQxYWzz6b5n3vHK4ojwIg">YouTube</a>.
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=NurTasin&theme=react-dark)
 <br>
-Contact me: nmuatasin2005@gmail.com<br>
-And as you are visiting this profile then please follow me.<br>
-Thanks for reading.<br>
-Stay at 127.0.0.1 and wear a 255.255.255.0 when going outside.
 
-<!--
-**NurTasin/NurTasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Wanna Know me More?</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.instagram.com/nmuatasin/">
+<img src="https://img.shields.io/badge/Instagram-nmuatasin-red" alt="Instagram" /></a> 
+<a href="https://www.facebook.com/nurtasin0/">
+<img src="https://img.shields.io/badge/Facebook-NurTasin0-blue" alt="Instagram" /></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=NurTasin.NurTasin" alt="NurTasin :: Visitor's Count" /></p>
