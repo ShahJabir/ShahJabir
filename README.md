@@ -42,12 +42,18 @@ Nice to meet you, I'm Shah Jabir Taqi
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
+<a href="https://shahjabir.com.bd">
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=website&color=181717" alt="GitHub" /></a>
 <a href="https://www.facebook.com/shah.jabir.90">
-<img src="https://img.shields.io/badge/Facebook-ShahJabir-blue" alt="Facebook" /></a>
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=facebook&color=0866FF" alt="Facebook" /></a>
 <a href="https://x.com/TaqiJabir">
-<img src="https://img.shields.io/badge/X-TaqiJabir-black" alt="Twitter" />
-<a href="https://www.linkedin.com/in/shah-jabir-taqi-a63653211/">
-<img src="https://img.shields.io/badge/Linkedin-shahjabirtaqi-blue" alt="Linkedin" /></a>
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=x&color=000000" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/shahjabir/">
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=linkedin&color=0A66C2" alt="Linkedin" /></a>
+<a href="https://github.com/shahjabir/">
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=github&color=181717" alt="GitHub" /></a>
+<a href="mailto://shahjabir@shahjabir.com.bd">
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=EA4335&logo=gmail&color=ffffff" alt="GitHub" /></a>
 </a>
 </p>
 
