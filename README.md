@@ -1,6 +1,8 @@
 # Assalamu Alaikum, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Nice to meet you, I'm Shah Jabir Taqi
+Nice to meet you, <br>
+<img src="https://img.shields.io/badge/-I_am-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="I am" />
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="Shah Jabir Taqi" />
 
 ## Who Am I? 🤠
 
@@ -16,18 +18,29 @@ Nice to meet you, I'm Shah Jabir Taqi
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">My Weapons 🌟</h3><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahJabir&theme=2077" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahJabir&theme=2077"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Other Shields 🛡</h3><br>
 
- * Assembly
- * WebAssembly
- * Micro Controllers
- * Java
- * Rust
- * Golang
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+<img src="https://img.shields.io/badge/-Assembly-black?style=for-the-badge&logoColor=ffffff&logo=assemblyscript&color=007AAC" alt="AssemblyScript"/></a>
+
+<a href="https://webassembly.org">
+<img src="https://img.shields.io/badge/-Web_Assembly-black?style=for-the-badge&logoColor=ffffff&logo=webassembly&color=654FF0" alt="Web Assembly"/></a>
+
+<a href="https://www.arduino.cc">
+<img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logoColor=ffffff&logo=arduino&color=00878F" alt="Arduino"/></a>
+
+<a href="https://developer.android.com">
+<img src="https://img.shields.io/badge/-Android_Development-black?style=for-the-badge&logoColor=34A853&logo=android&color=25396b" alt="Android Development"/></a>
+
+<a href="https://www.rust-lang.org">
+<img src="https://img.shields.io/badge/-Rust_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=rust&color=000000" alt="RustLang"/></a>
+
+<a href="https://www.rust-lang.org">
+<img src="https://img.shields.io/badge/-GO_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=go&color=00ADD8" alt="RustLang"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
@@ -47,7 +60,7 @@ Nice to meet you, I'm Shah Jabir Taqi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Wanna Know me More?</h3><br>
 <p align="center">
 <a href="https://shahjabir.com.bd">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=website&color=181717" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=website&color=181717" alt="Website" /></a>
 <a href="https://www.facebook.com/shah.jabir.90">
 <img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=facebook&color=0866FF" alt="Facebook" /></a>
 <a href="https://x.com/TaqiJabir">
@@ -57,7 +70,7 @@ Nice to meet you, I'm Shah Jabir Taqi
 <a href="https://github.com/shahjabir/">
 <img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=github&color=181717" alt="GitHub" /></a>
 <a href="mailto://shahjabir@shahjabir.com.bd">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=EA4335&logo=gmail&color=ffffff" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=EA4335&logo=gmail&color=ffffff" alt="Mail" /></a>
 </a>
 </p>
 
