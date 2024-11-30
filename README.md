@@ -16,11 +16,11 @@ Nice to meet you, <br>
     - Kodlamayı seviyorum!! ( Ahh, I am Learning Turkie right now )
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">My Weapons 🌟</h3><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">My Weapons 🌟</h3><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahJabir&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahJabir&theme=2077"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=577287" style='border:none;'></iframe>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Other Shields 🛡</h3><br>
 
