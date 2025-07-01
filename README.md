@@ -36,11 +36,6 @@ Nice to meet you, <br>
 <a href="https://developer.android.com">
 <img src="https://img.shields.io/badge/-Android_Development-black?style=for-the-badge&logoColor=34A853&logo=android&color=25396b" alt="Android Development"/></a>
 
-<a href="https://www.rust-lang.org">
-<img src="https://img.shields.io/badge/-Rust_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=rust&color=000000" alt="RustLang"/></a>
-
-<a href="https://www.rust-lang.org">
-<img src="https://img.shields.io/badge/-GO_Language-black?style=for-the-badge&logoColor=FFFFFF&logo=go&color=00ADD8" alt="RustLang"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
