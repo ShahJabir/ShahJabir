@@ -13,7 +13,7 @@ Nice to meet you, <br>
 - 💌 Fun Facts :
   - I learn, read & practice 😅
   - Tea, Coffee Lover ☕
-  - Kodlamayı seviyorum!! ( Ahh, I am Learning Turkie right now )
+  - Currently focus on learning
 
 <!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
