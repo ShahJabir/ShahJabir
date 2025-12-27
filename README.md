@@ -27,29 +27,40 @@ Self-taught Developer
 Tea, Coffee Lover ☕
 ```
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">My Weapons 🌟</h3><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
-
+<h3 align="center">My Top Used Languages 🌟</h3><br>
+<img src="https://i.icoziv.workers.dev/icons?i=c,cpp,python,js,nodejs,go,rust,wasm" /> <br>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Other Shields 🛡</h3><br>
 
-<a href="https://en.wikipedia.org/wiki/Assembly_language">
-<img src="https://img.shields.io/badge/-Assembly-black?style=for-the-badge&logoColor=ffffff&logo=assemblyscript&color=007AAC" alt="AssemblyScript"/></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Other Shields 🛡</h3><br>
 
-<a href="https://webassembly.org">
-<img src="https://img.shields.io/badge/-Web_Assembly-black?style=for-the-badge&logoColor=ffffff&logo=webassembly&color=654FF0" alt="Web Assembly"/></a>
+<div align="center">
+<details>
+   <summary><h2> Frontend </h2></summary>
+   <img src="https://i.icoziv.workers.dev/icons?i=reactjs-dark,nextjs-dark,tailwindcss-dark,framermotion-dark,gsap-dark,threejs-dark,reacthookform,reactquery-dark,reactrouter,zustand,tanstack" alt="Frontend Skills"> <br><br>
+  <img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
+</details>
 
-<a href="https://www.arduino.cc">
-<img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logoColor=ffffff&logo=arduino&color=00878F" alt="Arduino"/></a>
+<details>
+   <summary><h2> Backend </h2></summary>
+   <img src="https://i.icoziv.workers.dev/icons?i=expressjs-dark,nestjs-dark,fastify,actix-dark,hono,flask-dark,fastapi,django,djangorestframework,gin,echo,fiber,rocket,graphql-dark,websocket,grpc,trpc,postgresql-dark,mysql,sqlite,mongodb,neo4j-dark,redis-dark,prisma,drizzle,typeorm,solidity-dark,ganache,elasticsearch-dark" alt="Backend Skills"> <br><br>
+  <img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
+</details>
 
-<a href="https://developer.android.com">
-<img src="https://img.shields.io/badge/-Android_Development-black?style=for-the-badge&logoColor=34A853&logo=android&color=25396b" alt="Android Development"/></a>
+<details>
+<summary><h2> DevOps and Cloud </h2></summary>
+<img src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-light,ansible,azure-dark,bitbucket-dark,circleci,cloudflare-dark,datadog,digitalocean,docker,elasticsearch-dark,gcp-dark,git-dark,github-dark,githubactions-dark,gitlab-dark,grafana-dark,jenkins-dark,kubernetes,nginx,prometheus,puppeteer-dark,sentry,terraform-dark" alt="DevOps and Cloud"><br><br>
+<img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
+</details>
 
-<a href="https://www.unrealengine.com/en-US">
-<img src="https://img.shields.io/badge/-Unreal_Game_Engine-black?style=for-the-badge&logoColor=0E1128&logo=unrealengine&color=ffffff" alt="Unreal Game Engine"/></a> -->
+<details>
+<summary><h2> AI and ML </h2></summary>
+<img src="https://i.icoziv.workers.dev/icons?i=anaconda-dark,huggingface,jupyter-light,langchain-dark,numpy-dark,opencv-dark,pandas-dark,pytorch-dark,pytorch3d,scikitlearn-dark,tensorflow-dark" alt="AI and ML"><br><br>
+<img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
+</details>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
@@ -57,10 +68,10 @@ Tea, Coffee Lover ☕
 <img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
 <img align="center" src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono" alt="ShahJabir top language stats" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" height="180em" /><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=onedark"/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
 
