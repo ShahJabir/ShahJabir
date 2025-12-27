@@ -1,28 +1,31 @@
 # Assalamu Alaikum, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 [![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
 [![GitHubUserStars: ShahJabir](https://img.shields.io/github/stars/ShahJabir?style=social)](https://github.com/ShahJabir)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Nice to meet you, <br>
+
 ```css
 ┌[ShahJabir@git]-(~)
 └> mefetch
 ```
+
 <div style="display:block;text-align:left"><img align="right" src="https://avatars.githubusercontent.com/u/58883768?v=4" border="0" style="width:200px;">
 
- ```css
- ShahJabir@GitHub
- ------------------------------------------------------------------------------
- Name: Shah Jabir Taqi
- Nickname: Taqi
- Education: Bsc in Computers Science and Engineering
- Department: Engineering
- Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
- Goal: To be a NASA Hacker 😅😅😅
- Self-taught Developer
- Tea, Coffee Lover ☕
-  ```
+```css
+ShahJabir@GitHub
+------------------------------------------------------------------------------
+Name: Shah Jabir Taqi
+Nickname: Taqi
+Education: Bsc in Computers Science and Engineering
+Department: Engineering
+Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
+Goal: To be a NASA Hacker 😅😅😅
+Self-taught Developer
+Tea, Coffee Lover ☕
+```
 
 <!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,10 +54,10 @@ Nice to meet you, <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
 <div align="center">
-<a href="https://github.com/ShahJabir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahJabir&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=2077&utcOffset=6" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=2077" height="180em" />
+<img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
+<img align="center" src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono" alt="ShahJabir top language stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" height="180em" /><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=react-dark"/>
