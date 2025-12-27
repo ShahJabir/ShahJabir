@@ -1,19 +1,28 @@
 # Assalamu Alaikum, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ - [![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
+[![GitHubUserStars: ShahJabir](https://img.shields.io/github/stars/ShahJabir?style=social)](https://github.com/ShahJabir)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Nice to meet you, <br>
-<img src="https://img.shields.io/badge/-I_am-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="I am" />
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="Shah Jabir Taqi" />
+```css
+┌[ShahJabir@git]-(~)
+└> mefetch
+```
+<div style="display:block;text-align:left"><img align="right" src="https://avatars.githubusercontent.com/u/58883768?v=4" border="0" style="width:200px;">
 
-## Who Am I? 🤠
-
-- 🤓 Self-taught Developer
-- 👩‍💻 Working on Some Shitty Projects
-- 📝 Writing Code
-- 🎯 Goal: To be a NASA Hacker 😅😅😅
-- 💌 Fun Facts :
-  - I learn, read & practice 😅
-  - Tea, Coffee Lover ☕
-  - Currently focus on learning
+ ```css
+ ShahJabir@GitHub
+ ------------------------------------------------------------------------------
+ Name: Shah Jabir Taqi
+ Nickname: Taqi
+ Education: Bsc in Computers Science and Engineering
+ Department: Information Technology (IT)
+ Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
+ Goal: To be a NASA Hacker 😅😅😅
+ Self-taught Developer
+ Tea, Coffee Lover ☕
+  ```
 
 <!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
