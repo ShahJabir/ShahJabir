@@ -71,7 +71,7 @@ Tea, Coffee Lover ☕
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=onedark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko"/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
 
@@ -80,17 +80,20 @@ Tea, Coffee Lover ☕
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Wanna Know me More?</h3><br>
 <p align="center">
 <a href="https://shahjabir.com.bd">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=website&color=181717" alt="Website" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=link&size=96&color=%233b82f6" alt="link" height="50px" width="50px" /></a>
 <a href="https://www.facebook.com/shah.jabir.90">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=facebook&color=0866FF" alt="Facebook" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96" alt="facebook" height="50px" width="50px" /></a>
+
 <a href="https://x.com/TaqiJabir">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=x&color=000000" alt="Twitter" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=x&size=96&color=%23ffffff" alt="x" height="50px" width="50px" /></a>
+
 <a href="https://www.linkedin.com/in/shahjabir/">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=linkedin&color=0A66C2" alt="Linkedin" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="50px" width="50px" /></a>
+
 <a href="https://github.com/shahjabir/">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=ffffff&logo=github&color=181717" alt="GitHub" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" alt="github" height="50px" width="50px" /></a>
 <a href="mailto://shahjabir@shahjabir.com.bd">
-<img src="https://img.shields.io/badge/-Shah_Jabir-black?style=for-the-badge&logoColor=EA4335&logo=gmail&color=ffffff" alt="Mail" /></a>
+<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=96&color=%23ef4444" alt="envelope" height="50px" width="50px" /></a>
 </a>
 </p>
 
