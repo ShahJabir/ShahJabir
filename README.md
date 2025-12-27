@@ -17,7 +17,7 @@ Nice to meet you, <br>
  Name: Shah Jabir Taqi
  Nickname: Taqi
  Education: Bsc in Computers Science and Engineering
- Department: Information Technology (IT)
+ Department: Engineering
  Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
  Goal: To be a NASA Hacker 😅😅😅
  Self-taught Developer
