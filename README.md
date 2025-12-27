@@ -1,5 +1,5 @@
 # Assalamu Alaikum, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- - [![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
+[![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
 [![GitHubUserStars: ShahJabir](https://img.shields.io/github/stars/ShahJabir?style=social)](https://github.com/ShahJabir)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
