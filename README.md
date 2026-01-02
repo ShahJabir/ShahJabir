@@ -31,7 +31,7 @@ Tea, Coffee Lover ☕
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">My Top Used Languages 🌟</h3><br>
 <img src="https://i.icoziv.workers.dev/icons?i=c,cpp,python,js,nodejs,go,rust,wasm" /> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,7 +67,7 @@ Tea, Coffee Lover ☕
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ShahJabir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shah Jabir Taqi's GitHub Trophies" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br> 
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>  -->
 <img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br>
 </div>
