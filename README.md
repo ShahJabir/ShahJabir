@@ -12,7 +12,7 @@ Nice to meet you, <br>
 └> mefetch
 ```
 
-<div style="display:block;text-align:left"><img align="right" src="https://avatars.githubusercontent.com/u/58883768?v=4" border="0" style="width:200px;">
+<div style="display:block;text-align:left"><img align="right" src="public/qrcode.png" border="0" style="width:200px;">
 
 ```css
 ShahJabir@GitHub
