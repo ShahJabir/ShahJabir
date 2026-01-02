@@ -31,6 +31,7 @@ Tea, Coffee Lover ☕
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">My Top Used Languages 🌟</h3><br>
 <img src="https://i.icoziv.workers.dev/icons?i=c,cpp,python,js,nodejs,go,rust,wasm" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -65,16 +66,21 @@ Tea, Coffee Lover ☕
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShahJabir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shah Jabir Taqi's GitHub Trophies" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br> 
 <img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
-<img align="center" src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono" alt="ShahJabir top language stats" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko"/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<h3 align="center">🐍 Contribution Snake</h3><br>
 <!-- <img src="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/snake.svg" alt="Snake animation" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/pacman-contribution-graph-dark.svg">
@@ -82,19 +88,20 @@ Tea, Coffee Lover ☕
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/pacman-contribution-graph.svg">
 </picture>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Wanna Know me More?</h3><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Wanna Know me More?</h3><br>
 <p align="center">
 <a href="https://shahjabir.com.bd">
 <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=96&color=%233b82f6" alt="link" height="50px" width="50px" /></a>
 <a href="https://www.facebook.com/shah.jabir.90">
 <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96" alt="facebook" height="50px" width="50px" /></a>
-
 <a href="https://x.com/TaqiJabir">
 <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=96&color=%23ffffff" alt="x" height="50px" width="50px" /></a>
 
 <a href="https://www.linkedin.com/in/shahjabir/">
 <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="50px" width="50px" /></a>
-
 <a href="https://github.com/shahjabir/">
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" alt="github" height="50px" width="50px" /></a>
 <a href="mailto://shahjabir@shahjabir.com.bd">
@@ -102,5 +109,8 @@ Tea, Coffee Lover ☕
 </a>
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=ShahJabir.visitor-badge" alt="ShahJabir :: Visitor's Count" /></p>
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ShahJabir.visitor-badge" alt="ShahJabir :: Visitor's Count" />
+</p>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
