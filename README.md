@@ -66,7 +66,7 @@ Tea, Coffee Lover ☕
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahjabir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shah Jabir Taqi's GitHub Trophies" /><br>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shahjabir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shah Jabir Taqi's GitHub Trophies" /><br> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>  -->
 <img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br>
@@ -109,8 +109,8 @@ Tea, Coffee Lover ☕
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ShahJabir.visitor-badge" alt="ShahJabir :: Visitor's Count" />
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
