@@ -19,7 +19,7 @@ ShahJabir@GitHub
 ------------------------------------------------------------------------------
 Name: Shah Jabir Taqi
 Nickname: Taqi
-Education: Bsc in Computers Science and Engineering
+Education: BSc in Computer Science and Engineering
 Department: Engineering
 Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
 Goal: To be a NASA Hacker 😅😅😅
@@ -34,7 +34,7 @@ Tea, Coffee Lover ☕
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br> -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Other Shields 🛡</h3><br>
 
 <div align="center">
@@ -61,7 +61,7 @@ Tea, Coffee Lover ☕
 <img src="https://i.icoziv.workers.dev/icons?i=anaconda-dark,huggingface,jupyter-light,langchain-dark,numpy-dark,opencv-dark,pandas-dark,pytorch-dark,pytorch3d,scikitlearn-dark,tensorflow-dark" alt="AI and ML"><br><br>
 <img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
 </details>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
