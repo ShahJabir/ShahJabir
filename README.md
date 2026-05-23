@@ -32,7 +32,8 @@ Tea, Coffee Lover ☕
 <h3 align="center">My Top Used Languages 🌟</h3><br>
 <img src="https://i.icoziv.workers.dev/icons?i=c,cpp,python,js,nodejs,go,rust,wasm" /> <br>
 
-<!-- ![Language Stats](stats/leaderboard_by_lines.png) -->
+<img src="stats/leaderboard_by_bytes.png" alt="Top Language" />
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br> -->
 </div>
 
