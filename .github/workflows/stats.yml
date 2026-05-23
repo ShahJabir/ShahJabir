@@ -1,13 +1,12 @@
 name: Update Language Statistics
 
 on:
-  schedule: # run automatically every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-  workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the master branch
+  workflow_dispatch:
+  push:
     branches:
       - main
-
 
 permissions:
   contents: write
