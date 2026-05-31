@@ -190,6 +190,8 @@ drwxr-xr-x  observability/
 
 <div align="center">
 
+## `~$ logout`
+
 ```bash
 ┌──[taqi@github]─[~]
 └─$ echo "Speed without security is reckless. Security without performance is irrelevant."
