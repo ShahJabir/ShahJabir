@@ -1,90 +1,154 @@
-# Assalamu Alaikum, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Header -->
+<div align="center">
+<pre>
+███████╗██╗  ██╗ █████╗ ██╗  ██╗     ██╗ █████╗ ██████╗ ██╗██████╗
+██╔════╝██║  ██║██╔══██╗██║  ██║     ██║██╔══██╗██╔══██╗██║██╔══██╗
+███████╗███████║███████║███████║     ██║███████║██████╔╝██║██████╔╝
+╚════██║██╔══██║██╔══██║██╔══██║██   ██║██╔══██║██╔══██╗██║██╔══██╗
+███████║██║  ██║██║  ██║██║  ██║╚█████╔╝██║  ██║██████╔╝██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝
+</pre>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Junior+DevSecOps+%7C+Backend+Dev+%7C+Security+Researcher;Building+Fortresses%2C+Not+Just+Code.;Speed+without+security+is+reckless.)](https://git.io/typing-svg)
 
 [![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
 [![GitHubUserStars: ShahJabir](https://img.shields.io/github/stars/ShahJabir?style=social)](https://github.com/ShahJabir)
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Nice to meet you, <br>
+#### `~$ whoami`
 
-```css
-┌[ShahJabir@git]-(~)
-└> mefetch
+```bash
+┌──[taqi@github]─[~]
+└─$ cat about.txt
+
+  Name        : Shah Jabir Taqi
+  Alias       : Taqi / ShahJabir
+  Role        : Back End Developer @ SysBitz  (Feb 2026 – Present)
+  Education   : BSc in Computer Science & Engineering — Varendra University
+  Location    : Rajshahi, Bangladesh 🇧🇩
+  Philosophy  : "I don't just build code; I build the fortress it lives in."
+  Interests   : Backend · DevOps · MLOps · Fintech · CyberSecurity · Linux · AI/ML · Astronomy
+  Goal        : Engineer systems that outlast their creators · Break what others
+                trust · Secure what others ignore · Eventually, hack the stars 🌌
+  Fuel        : Tea ☕ + Coffee ☕
 ```
 
-<div style="display:block;text-align:left"><img align="right" src="public/qrcode.png" border="0" style="width:200px;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```css
-ShahJabir@GitHub
-------------------------------------------------------------------------------
-Name: Shah Jabir Taqi
-Nickname: Taqi
-Education: BSc in Computer Science and Engineering
-Department: Engineering
-Interests: ["Backend", "DevOps", "MLOps", "CyberSecurity", "Linux", "AI-ML"]
-Goal: To be a NASA Hacker 😅😅😅
-Self-taught Developer
-Tea, Coffee Lover ☕
+#### `~$ cat current_role.txt`
+
+```yaml
+# SysBitz — Back End Developer
+# February 2026 – Present
+
+position   : Back End Developer
+company    : SysBitz
+since      : February 2026
+focus:
+  - Building scalable, secure RESTful APIs
+  - Cloud-native backend architecture
+  - Integrating DevSecOps practices into SDLC
+  - Performance-hardened infrastructure design
+```
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+#### `~$ ls -la skills/`
+
+```
+drwxr-xr-x  languages/
+drwxr-xr-x  devops-cloud/
+drwxr-xr-x  security/
+drwxr-xr-x  databases/
+drwxr-xr-x  observability/
 ```
 
+##### `skills/languages/`
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">My Top Used Languages 🌟</h3><br>
 <img src="https://i.icoziv.workers.dev/icons?i=c,cpp,python,js,nodejs,go,rust,wasm" /> <br>
+</div>
+
+##### `skills/devops-cloud/`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,ansible,terraform,aws,azure,cloudflare&theme=dark" />
+</div>
+
+##### `skills/security/`
+
+```bash
+┌──[taqi@github]─[~/skills/security]
+└─$ cat techniques.txt
+
+  eBPF-based runtime security
+  Zero Trust Architecture (ZTA)
+  Threat Modeling & Risk Assessment
+  Secure SDLC integration
+  Penetration Testing (Jr. cert)
+  Bug Bounty Hunting — HackerOne
+  OWASP Top 10
+  Vulnerability Research & Disclosure
+```
+
+##### `skills/observability/`
+
+```bash
+└─$ cat observability.txt
+
+  AIOps-driven Observability
+  Distributed Tracing
+  Metrics · Logs · Alerts pipelines
+
+  Grafana Stack  (Grafana · Loki · Tempo · Mimir)
+  ELK Stack      (Elasticsearch · Logstash · Kibana)
+  Datadog        (APM · Log Management · Infrastructure)
+  New Relic      (Full-stack Observability · AI Ops)
+  Sentry         (Error Tracking · Performance Monitoring)
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+#### `~$ cat bug_bounty.json`
+
+```json
+{
+  "platform"   : "HackerOne",
+  "profile"    : "https://hackerone.com/jabirtaqi",
+  "status"     : "Deactivate 🎯",
+  "focus"      : [
+    "Web Application Security",
+    "API Security",
+    "Vulnerability Disclosure"
+  ],
+  "approach"   : "Responsible Disclosure · Impact-first mindset"
+}
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+   
+#### `~$ ./my_top_used_languages.png`
 
 <img src="stats/leaderboard_by_bytes.png" alt="Top Language" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahJabir&theme=react" /> <br> -->
-</div>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Other Shields 🛡</h3><br>
-
-<div align="center">
-<details>
-   <summary><h2> Frontend </h2></summary>
-   <img src="https://i.icoziv.workers.dev/icons?i=reactjs-dark,nextjs-dark,tailwindcss-dark,framermotion-dark,gsap-dark,threejs-dark,reacthookform,reactquery-dark,reactrouter,zustand,tanstack" alt="Frontend Skills"> <br><br>
-  <img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
-</details>
-
-<details>
-   <summary><h2> Backend </h2></summary>
-   <img src="https://i.icoziv.workers.dev/icons?i=expressjs-dark,nestjs-dark,fastify,actix-dark,hono,flask-dark,fastapi,django,djangorestframework,gin,echo,fiber,rocket,graphql-dark,websocket,grpc,trpc,postgresql-dark,mysql,sqlite,mongodb,neo4j-dark,redis-dark,prisma,drizzle,typeorm,solidity-dark,ganache,elasticsearch-dark" alt="Backend Skills"> <br><br>
-  <img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
-</details>
-
-<details>
-<summary><h2> DevOps and Cloud </h2></summary>
-<img src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-light,ansible,azure-dark,bitbucket-dark,circleci,cloudflare-dark,datadog,digitalocean,docker,elasticsearch-dark,gcp-dark,git-dark,github-dark,githubactions-dark,gitlab-dark,grafana-dark,jenkins-dark,kubernetes,nginx,prometheus,puppeteer-dark,sentry,terraform-dark" alt="DevOps and Cloud"><br><br>
-<img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
-</details>
-
-<details>
-<summary><h2> AI and ML </h2></summary>
-<img src="https://i.icoziv.workers.dev/icons?i=anaconda-dark,huggingface,jupyter-light,langchain-dark,numpy-dark,opencv-dark,pandas-dark,pytorch-dark,pytorch3d,scikitlearn-dark,tensorflow-dark" alt="AI and ML"><br><br>
-<img src="https://img.shields.io/badge/-and_more_...-black?style=for-the-badge&logoColor=ffffff&color=181717" alt="and more ..." /></a>
-</details>
-</div> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
-
-<div align="center">
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=shahjabir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shah Jabir Taqi's GitHub Trophies" /><br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahJabir&theme=onedark&layout=compact&fontFamily=Roboto%20Mono&utcOffset=6" /><br>  -->
-<img  alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" /><br>
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahJabir&theme=onedark&fontFamily=Roboto%20Mono" /><br> -->
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#### `~$ ./github_stats.sh`
 
 <div align="center">
-<h3 align="center">🐍 Contribution Snake</h3><br>
-<!-- <img src="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/snake.svg" alt="Snake animation" /> -->
+
+<img alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" />
+
+<br>
+
+</div>
+
+<h3 align="center">⚡ Contribution Activity</h3>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko&hide_border=true"/>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/pacman-contribution-graph.svg">
@@ -92,28 +156,43 @@ Tea, Coffee Lover ☕
 </picture>
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Wanna Know me More?</h3><br>
-<p align="center">
-<a href="https://shahjabir.com.bd">
-<img src="https://www.readmecodegen.com/api/social-icon?name=link&size=96&color=%233b82f6" alt="link" height="50px" width="50px" /></a>
-<a href="https://www.facebook.com/shah.jabir.90">
-<img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96" alt="facebook" height="50px" width="50px" /></a>
-<a href="https://x.com/TaqiJabir">
-<img src="https://www.readmecodegen.com/api/social-icon?name=x&size=96&color=%23ffffff" alt="x" height="50px" width="50px" /></a>
+## `~$ cat contacts.txt`
 
-<a href="https://www.linkedin.com/in/shahjabir/">
-<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="50px" width="50px" /></a>
-<a href="https://github.com/shahjabir/">
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" alt="github" height="50px" width="50px" /></a>
-<a href="mailto://shahjabir@shahjabir.com.bd">
-<img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=96&color=%23ef4444" alt="envelope" height="50px" width="50px" /></a>
-</a>
-</p>
+```bash
+┌──[taqi@github]─[~/contacts]
+└─$ ls -1
 
-<!-- <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ShahJabir.visitor-badge" alt="ShahJabir :: Visitor's Count" />
-</p> -->
+  🌐  Portfolio   →  https://shahjabir.com.bd
+  💼  LinkedIn    →  https://linkedin.com/in/shahjabir
+  🐙  GitHub      →  https://github.com/ShahJabir
+  🐦  X / Twitter →  https://x.com/TaqiJabir
+  📧  Email       →  shahjabirofficial@gmail.com
+  📞  Phone       →  +880 1605-692944
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahjabir.com.bd-00ff41?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://shahjabir.com.bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahjabir-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/shahjabir)
+[![X](https://img.shields.io/badge/X-@TaqiJabir-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/TaqiJabir)
+[![Email](https://img.shields.io/badge/Email-shahjabirofficial@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shahjabirofficial@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+```bash
+┌──[taqi@github]─[~]
+└─$ echo "Speed without security is reckless. Security without performance is irrelevant."
+
+Speed without security is reckless. Security without performance is irrelevant.
+
+└─$ logout
+```
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
