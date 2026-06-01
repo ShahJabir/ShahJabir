@@ -11,9 +11,6 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Junior+DevSecOps+%7C+Backend+Dev+%7C+Security+Researcher;Building+Fortresses%2C+Not+Just+Code.;Speed+without+security+is+reckless.)](https://git.io/typing-svg)
 
-[![GitHubFollowers: ShahJabir](https://img.shields.io/github/followers/ShahJabir?style=social)](https://github.com/ShahJabir)
-[![GitHubUserStars: ShahJabir](https://img.shields.io/github/stars/ShahJabir?style=social)](https://github.com/ShahJabir)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
