@@ -127,7 +127,11 @@ drwxr-xr-x  observability/
    
 #### `~$ ./my_top_used_languages.png`
 
-<img src="stats/leaderboard_by_bytes.png" alt="Top Language" />
+<div align="cener">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShahJabir&layout=compact&langs_count=10&hide_values=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=ShahJabir&layout=compact&langs_count=10&hide_values=true&theme=catppuccin_mocha)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -135,15 +139,13 @@ drwxr-xr-x  observability/
 
 <div align="center">
 
-<img alt="ShahJabir's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahJabir?cardType=github&theme=onedark&fontFamily=Roboto%20Mono&preferLogin=false" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ShahJabir&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=ShahJabir&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
 <br>
 
 </div>
 
 <h3 align="center">⚡ Contribution Activity</h3>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahJabir&theme=merko&hide_border=true"/>
 
 <div align="center">
 <picture>
