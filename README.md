@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝
 </pre>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Junior+DevSecOps+%7C+Backend+Dev+%7C+Security+Researcher;Building+Fortresses%2C+Not+Just+Code.;Speed+without+security+is+reckless.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Junior+DevSecOps;Backend+Dev;Security+Researcher)](https://git.io/typing-svg)
 
 </div>
 
