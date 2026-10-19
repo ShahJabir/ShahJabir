@@ -127,7 +127,7 @@ drwxr-xr-x  observability/
    
 #### `~$ ./my_top_used_languages.png`
 
-<div align="cener">
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShahJabir&layout=compact&langs_count=10&hide_values=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=ShahJabir&layout=compact&langs_count=10&hide_values=true&theme=catppuccin_mocha)
 
